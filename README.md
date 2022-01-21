@@ -1,4 +1,4 @@
-# Zombie Helicopter Gap (<a href="https://cocos.com/en">cocos2d-x</a>)
+# Zombie Helicopter Gap (<a href="https://www.cocos.com/en">Cocos2d-x</a>)
 
 Survive the zombie doom with a helicopter. Shoot every zombie that gets in your way, but don't let it collide with the building.
 
