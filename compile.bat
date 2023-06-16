@@ -1,0 +1,1 @@
+cocos compile -s . -p android --android-studio
